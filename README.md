@@ -2,7 +2,7 @@ This repository contains all the tasks completed during my Java Development Inte
 
 📌 Completed Tasks
 
-Number Guessing Game
+Number Guessing Game:
 A console-based Java application where the system generates a random number and the user tries to guess it.
 
 Features:
@@ -14,7 +14,7 @@ Features:
 
 Technologies: Java, Loops, Conditional Statements
 
-ATM Interface
+ATM Interface:
 A console-based ATM system developed using Java and OOP concepts.
 
 Features:
@@ -27,7 +27,7 @@ Features:
 
 Technologies: Java, OOP Concepts
 
-Online Examination System
+Online Examination System:
 A console-based online exam system with login and MCQ functionality.
 
 Features:
