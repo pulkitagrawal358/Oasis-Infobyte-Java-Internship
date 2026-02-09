@@ -1,20 +1,42 @@
-Oasis Infobyte Internship - Java Development
+This repository contains all the tasks completed during my Java Development Internship at Oasis Infobyte.
 
-ATM Interface
+📌 Completed Tasks
 
-This project is a console-based ATM Interface developed using Java.
+Number Guessing Game
+A console-based Java application where the system generates a random number and the user tries to guess it.
 
 Features:
-- User login (ID & PIN)
-- Check transaction history
+- Random number generation (1–100)
+- User guessing system
+- High/Low hints
+- Attempt counter
+- Result display
+
+Technologies: Java, Loops, Conditional Statements
+
+ATM Interface
+A console-based ATM system developed using Java and OOP concepts.
+
+Features:
+- Secure login (User ID & PIN)
 - Withdraw money
 - Deposit money
 - Transfer money
-- Exit option
+- Transaction handling
+- Exit system
 
-Technologies Used:
-- Java
-- OOP Concepts
-- BlueJ IDE
+Technologies: Java, OOP Concepts
 
-This project was completed as part of the Oasis Infobyte Java Development Internship.
+Online Examination System
+A console-based online exam system with login and MCQ functionality.
+
+Features:
+- User login system
+- Start online exam
+- Multiple-choice questions
+- Automatic score calculation
+- Result display (Pass/Fail)
+- Update password feature
+- Logout option
+
+Technologies: Java, OOP Concepts
